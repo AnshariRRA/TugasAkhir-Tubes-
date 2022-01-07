@@ -1,12 +1,22 @@
-# TugasAkhir-Tubes-
+					# TugasAkhir-Tubes-
+
 
 Anggota Kelompok
+
 Ahmad Afif Wildan/20104008
+
 Anshari Rusmeniar Rizky Arief/20104015
+
 Arisandi Fanansyah/20104018
+
 Emha Hanafi/20104028
-Dasar Teori
+
+					Dasar Teori
 Class & Object :
+
+
+
+
 
 Class adalah sebuah cetak biru definisi pengguna atau prototipe dari object yang diciptakan. Class yang telah diciptakan tersebut merepresentasikan seperangkat dari properti atau method yang umum dari semua object dari satu tipe data. Object adalah instance dari class secara umum merepresentasikan (template) sebuah object, sebuah instance adalah representasi nyata dari class itu sendiri.
 
@@ -32,7 +42,10 @@ Protected
 Public
 Inheritence :
 
-Inheritance adalah konsep OOP dimana sebuah class dapat menurunkan property dan method yang dimilikinya kepada class lain. Konsep inheritance dipakai untuk memanfaatkan fitur code reuse, yakni menghindari terjadinya duplikasi kode program. Konsep inheritance membuat sebuah struktur atau hierarchy class dalam kode program. Class yang akan diturunkan bisa disebut sebagai class induk (parent class), super class, atau base class.
+Inheritance adalah konsep OOP dimana sebuah class dapat menurunkan property dan method yang dimilikinya kepada class lain. Konsep inheritance dipakai untuk memanfaatkan fitur code reuse, yakni menghindari terjadinya duplikasi kode program. Konsep inheritance membuat sebuah struktur atau hierarchy class dalam kode program. Class yang akan diturunkan bisa disebut sebagai
+
+
+class induk (parent class), super class, atau base class.
 
 Constructor :
 
